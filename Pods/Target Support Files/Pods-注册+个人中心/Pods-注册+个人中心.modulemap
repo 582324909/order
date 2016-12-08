@@ -1,0 +1,6 @@
+framework module Pods________ {
+  umbrella header "Pods-注册+个人中心-umbrella.h"
+
+  export *
+  module * { export * }
+}
